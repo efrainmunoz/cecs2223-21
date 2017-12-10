@@ -1,0 +1,3 @@
+Advil,25,MG,A,0.50,
+Panadol,500,MG,C,0.25,
+Tylenol,200,MG,B,0.15,
